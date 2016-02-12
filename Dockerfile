@@ -3,4 +3,4 @@ FROM hypriot/rpi-node
 ADD . /app
 WORKDIR /app
 
-CMD ["npm", "start"]
+CMD ["node", "web.js"]
