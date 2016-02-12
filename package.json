@@ -1,0 +1,7 @@
+{
+  "name": "sample",
+	"version": "1.0.0",
+	"description": "Node.js sample for auto build",
+	"icon": "icon.png",
+	"author": "Simon su"
+}
